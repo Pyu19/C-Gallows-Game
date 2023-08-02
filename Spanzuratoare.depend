@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1643220886 source:c:\users\maxim\desktop\codeblocks\spanzuratoare\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstring>
+	<ctime>
+	<cstdlib>
+
+1643449177 source:d:\programare\codeblocks\spanzuratoare\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstring>
+	<ctime>
+	<cstdlib>
+
